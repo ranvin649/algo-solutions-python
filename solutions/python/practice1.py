@@ -76,3 +76,6 @@ assert totalNQueens(5) == 10
 assert totalNQueens(6) == 4
 
 print("All test cases passed!")
+assert totalNQueens(4) == 2
+assert totalNQueens(1) == 1
+assert totalNQueens(2) == 0
